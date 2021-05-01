@@ -1,2 +1,2 @@
 # spotify little project
- Playing around with spotify API
+ Playing around with spotify API (WIP)
